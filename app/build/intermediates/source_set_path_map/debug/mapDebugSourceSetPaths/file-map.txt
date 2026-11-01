@@ -1,0 +1,71 @@
+com.luna.oneuilauncher.app-pngs-0 /storage/emulated/0/Rea Android Ultimate V3/OneUILauncher-Improved/app/build/generated/res/pngs/debug
+com.luna.oneuilauncher.app-resValues-1 /storage/emulated/0/Rea Android Ultimate V3/OneUILauncher-Improved/app/build/generated/res/resValues/debug
+com.luna.oneuilauncher.app-packageDebugResources-2 /storage/emulated/0/Rea Android Ultimate V3/OneUILauncher-Improved/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.luna.oneuilauncher.app-packageDebugResources-3 /storage/emulated/0/Rea Android Ultimate V3/OneUILauncher-Improved/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.luna.oneuilauncher.app-debug-4 /storage/emulated/0/Rea Android Ultimate V3/OneUILauncher-Improved/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.luna.oneuilauncher.app-debug-5 /storage/emulated/0/Rea Android Ultimate V3/OneUILauncher-Improved/app/src/debug/res
+com.luna.oneuilauncher.app-main-6 /storage/emulated/0/Rea Android Ultimate V3/OneUILauncher-Improved/app/src/main/res
+com.luna.oneuilauncher.app-lifecycle-livedata-2.9.0-7 /tmp/gradle_home/caches/9.8.2/transforms/019517a15bd0bc2c51d6e723626a24e5/transformed/lifecycle-livedata-2.9.0/res
+com.luna.oneuilauncher.app-ui-text-release-8 /tmp/gradle_home/caches/9.8.2/transforms/021f0185e56ac07039bfbec55149c44f/transformed/ui-text-release/res
+com.luna.oneuilauncher.app-sqlite-framework-2.4.0-9 /tmp/gradle_home/caches/9.8.2/transforms/1280732faf04ca3becbd42c34b68fda6/transformed/sqlite-framework-2.4.0/res
+com.luna.oneuilauncher.app-window-core-release-10 /tmp/gradle_home/caches/9.8.2/transforms/14d587b00fbdfb2bc8f011c6bb7b06ae/transformed/window-core-release/res
+com.luna.oneuilauncher.app-material-ripple-release-11 /tmp/gradle_home/caches/9.8.2/transforms/1504748433c904d6651ed7dbd0163526/transformed/material-ripple-release/res
+com.luna.oneuilauncher.app-ui-unit-release-12 /tmp/gradle_home/caches/9.8.2/transforms/177aed97be8a1916968e6e63b11a192a/transformed/ui-unit-release/res
+com.luna.oneuilauncher.app-lifecycle-livedata-core-ktx-2.9.0-13 /tmp/gradle_home/caches/9.8.2/transforms/28d0d3e75bacde3e6e6ad2794dd98080/transformed/lifecycle-livedata-core-ktx-2.9.0/res
+com.luna.oneuilauncher.app-datastore-core-release-14 /tmp/gradle_home/caches/9.8.2/transforms/2af61422188e01786b099957b6cfc88e/transformed/datastore-core-release/res
+com.luna.oneuilauncher.app-lifecycle-viewmodel-savedstate-release-15 /tmp/gradle_home/caches/9.8.2/transforms/2da0484e52476d47011a1ceaae4073b7/transformed/lifecycle-viewmodel-savedstate-release/res
+com.luna.oneuilauncher.app-haze-release-16 /tmp/gradle_home/caches/9.8.2/transforms/315c6fb4771b02a762aa12366367237b/transformed/haze-release/res
+com.luna.oneuilauncher.app-material-release-17 /tmp/gradle_home/caches/9.8.2/transforms/39ecca1df61a054ab36e5bef7ed07531/transformed/material-release/res
+com.luna.oneuilauncher.app-savedstate-compose-release-18 /tmp/gradle_home/caches/9.8.2/transforms/3c102f87601e456e5e86f733ab791fde/transformed/savedstate-compose-release/res
+com.luna.oneuilauncher.app-datastore-release-19 /tmp/gradle_home/caches/9.8.2/transforms/3ee13e6ed8c31cf82b13c02a7f6ca24c/transformed/datastore-release/res
+com.luna.oneuilauncher.app-adaptive-release-20 /tmp/gradle_home/caches/9.8.2/transforms/413672c5b8fc1f96cde2a1c24bc55335/transformed/adaptive-release/res
+com.luna.oneuilauncher.app-activity-1.9.3-21 /tmp/gradle_home/caches/9.8.2/transforms/46da5440a28e96e4e80f3bd8af35591a/transformed/activity-1.9.3/res
+com.luna.oneuilauncher.app-lottie-6.6.0-22 /tmp/gradle_home/caches/9.8.2/transforms/518cb61128a3a4eba7beda4de11c8ee7/transformed/lottie-6.6.0/res
+com.luna.oneuilauncher.app-lifecycle-process-2.9.0-23 /tmp/gradle_home/caches/9.8.2/transforms/51e5b3c91a396a58c00d3c25113f2bf5/transformed/lifecycle-process-2.9.0/res
+com.luna.oneuilauncher.app-tracing-1.2.0-24 /tmp/gradle_home/caches/9.8.2/transforms/52cefbcf6c9e29b901465db04ef4e749/transformed/tracing-1.2.0/res
+com.luna.oneuilauncher.app-appcompat-resources-1.7.0-25 /tmp/gradle_home/caches/9.8.2/transforms/53de925501e87375e2cb092b2ac6d6f7/transformed/appcompat-resources-1.7.0/res
+com.luna.oneuilauncher.app-window-1.3.0-26 /tmp/gradle_home/caches/9.8.2/transforms/550c8eb84394f12831830f480220d0c1/transformed/window-1.3.0/res
+com.luna.oneuilauncher.app-profileinstaller-1.4.1-27 /tmp/gradle_home/caches/9.8.2/transforms/56ffc71d9cc44c5ade9d9661a053cf01/transformed/profileinstaller-1.4.1/res
+com.luna.oneuilauncher.app-runtime-saveable-release-28 /tmp/gradle_home/caches/9.8.2/transforms/59afcd5dd5287d3026788b39af64ba99/transformed/runtime-saveable-release/res
+com.luna.oneuilauncher.app-ui-graphics-release-29 /tmp/gradle_home/caches/9.8.2/transforms/611f722657c41880926e19715a315191/transformed/ui-graphics-release/res
+com.luna.oneuilauncher.app-navigation3-ui-release-30 /tmp/gradle_home/caches/9.8.2/transforms/643a64d8ccfc9929c4ed310cea107bc7/transformed/navigation3-ui-release/res
+com.luna.oneuilauncher.app-appcompat-1.7.0-31 /tmp/gradle_home/caches/9.8.2/transforms/6684702ebde5dd00547af6f26db8d4c7/transformed/appcompat-1.7.0/res
+com.luna.oneuilauncher.app-emoji2-views-helper-1.4.0-32 /tmp/gradle_home/caches/9.8.2/transforms/676812145c1402f937b1fa3e93c7c8a3/transformed/emoji2-views-helper-1.4.0/res
+com.luna.oneuilauncher.app-activity-ktx-1.9.3-33 /tmp/gradle_home/caches/9.8.2/transforms/6b5c39f2c25e2d5f3098a6f2f5288f62/transformed/activity-ktx-1.9.3/res
+com.luna.oneuilauncher.app-lifecycle-viewmodel-release-34 /tmp/gradle_home/caches/9.8.2/transforms/70500c20e58a9b7c2d9584fd8273b787/transformed/lifecycle-viewmodel-release/res
+com.luna.oneuilauncher.app-activity-compose-1.9.3-35 /tmp/gradle_home/caches/9.8.2/transforms/71dc586e61182420ff138699768c07e2/transformed/activity-compose-1.9.3/res
+com.luna.oneuilauncher.app-savedstate-ktx-1.3.0-36 /tmp/gradle_home/caches/9.8.2/transforms/741062817a93f89c72d2d0cc5cdf078e/transformed/savedstate-ktx-1.3.0/res
+com.luna.oneuilauncher.app-ui-release-37 /tmp/gradle_home/caches/9.8.2/transforms/7733bf17d8bf6b4ffae519f719561130/transformed/ui-release/res
+com.luna.oneuilauncher.app-emoji2-1.4.0-38 /tmp/gradle_home/caches/9.8.2/transforms/7753be287e7d4536ca62f3eaf4116b0a/transformed/emoji2-1.4.0/res
+com.luna.oneuilauncher.app-room-runtime-2.6.1-39 /tmp/gradle_home/caches/9.8.2/transforms/849d2d9231aa48e89f6072e7823b5e73/transformed/room-runtime-2.6.1/res
+com.luna.oneuilauncher.app-lifecycle-viewmodel-compose-release-40 /tmp/gradle_home/caches/9.8.2/transforms/87917a12291635feaf51e07e97ba64b0/transformed/lifecycle-viewmodel-compose-release/res
+com.luna.oneuilauncher.app-annotation-experimental-1.4.1-41 /tmp/gradle_home/caches/9.8.2/transforms/8a48e8c2a01dd1f24e2f582c1e17ef01/transformed/annotation-experimental-1.4.1/res
+com.luna.oneuilauncher.app-core-1.0.0-42 /tmp/gradle_home/caches/9.8.2/transforms/8f8354558907207ad8f071dfe2f92d96/transformed/core-1.0.0/res
+com.luna.oneuilauncher.app-core-ktx-1.15.0-43 /tmp/gradle_home/caches/9.8.2/transforms/9bfa1a3bb7642f694d0f3871705fe502/transformed/core-ktx-1.15.0/res
+com.luna.oneuilauncher.app-foundation-release-44 /tmp/gradle_home/caches/9.8.2/transforms/9f0d1dd404af308fd0825004e70fa333/transformed/foundation-release/res
+com.luna.oneuilauncher.app-material3-release-45 /tmp/gradle_home/caches/9.8.2/transforms/a0e3981f665916f88a734144f60ad655/transformed/material3-release/res
+com.luna.oneuilauncher.app-savedstate-release-46 /tmp/gradle_home/caches/9.8.2/transforms/a1afb7b8b3f9925633f11e0a25661b81/transformed/savedstate-release/res
+com.luna.oneuilauncher.app-navigationevent-release-47 /tmp/gradle_home/caches/9.8.2/transforms/a1c505d4da8f1246a869610794141c67/transformed/navigationevent-release/res
+com.luna.oneuilauncher.app-graphics-path-1.0.1-48 /tmp/gradle_home/caches/9.8.2/transforms/a247161aad98bcca53cfb058ca61841b/transformed/graphics-path-1.0.1/res
+com.luna.oneuilauncher.app-navigation3-runtime-release-49 /tmp/gradle_home/caches/9.8.2/transforms/a381531c6ab4c3f75894100191d9bea6/transformed/navigation3-runtime-release/res
+com.luna.oneuilauncher.app-material-icons-core-release-50 /tmp/gradle_home/caches/9.8.2/transforms/a50c5cc8524e0e7394058aad5c3eabf7/transformed/material-icons-core-release/res
+com.luna.oneuilauncher.app-core-1.15.0-51 /tmp/gradle_home/caches/9.8.2/transforms/a6019ddd49e4a84489eaa5825d9d9b50/transformed/core-1.15.0/res
+com.luna.oneuilauncher.app-room-ktx-2.6.1-52 /tmp/gradle_home/caches/9.8.2/transforms/a67633f32c02527283cae965bc055467/transformed/room-ktx-2.6.1/res
+com.luna.oneuilauncher.app-lifecycle-runtime-release-53 /tmp/gradle_home/caches/9.8.2/transforms/a9f41ea0f54d535b0a0071cfadaf557f/transformed/lifecycle-runtime-release/res
+com.luna.oneuilauncher.app-core-viewtree-1.0.0-54 /tmp/gradle_home/caches/9.8.2/transforms/ab530a05a399b2f2e9a189f60da4b704/transformed/core-viewtree-1.0.0/res
+com.luna.oneuilauncher.app-sqlite-2.4.0-55 /tmp/gradle_home/caches/9.8.2/transforms/ae0a6617d9355b49c5b937bbb1c5f50d/transformed/sqlite-2.4.0/res
+com.luna.oneuilauncher.app-ui-test-manifest-1.9.0-alpha03-56 /tmp/gradle_home/caches/9.8.2/transforms/b6dc7cca951524afd26be68174194fef/transformed/ui-test-manifest-1.9.0-alpha03/res
+com.luna.oneuilauncher.app-coil-core-release-57 /tmp/gradle_home/caches/9.8.2/transforms/b71a3023757a39159baf7d2bede932b2/transformed/coil-core-release/res
+com.luna.oneuilauncher.app-foundation-layout-release-58 /tmp/gradle_home/caches/9.8.2/transforms/c098825a451169713d91cf7c753bcdd7/transformed/foundation-layout-release/res
+com.luna.oneuilauncher.app-lifecycle-viewmodel-ktx-2.9.0-59 /tmp/gradle_home/caches/9.8.2/transforms/cd001bd1772c055bc1e368e436274fbd/transformed/lifecycle-viewmodel-ktx-2.9.0/res
+com.luna.oneuilauncher.app-runtime-release-60 /tmp/gradle_home/caches/9.8.2/transforms/d093341e79d5856a27d583d990d747b0/transformed/runtime-release/res
+com.luna.oneuilauncher.app-lifecycle-livedata-core-2.9.0-61 /tmp/gradle_home/caches/9.8.2/transforms/d251f27a8e624d52cd4cc8f27d2ead74/transformed/lifecycle-livedata-core-2.9.0/res
+com.luna.oneuilauncher.app-ui-tooling-release-62 /tmp/gradle_home/caches/9.8.2/transforms/d78cd8c41038bead3510d1841dd30e4a/transformed/ui-tooling-release/res
+com.luna.oneuilauncher.app-lifecycle-runtime-compose-release-63 /tmp/gradle_home/caches/9.8.2/transforms/de586d920e10c69f355d4f04d554f42d/transformed/lifecycle-runtime-compose-release/res
+com.luna.oneuilauncher.app-animation-core-release-64 /tmp/gradle_home/caches/9.8.2/transforms/e326eae1270643333c96b6c10e916ab0/transformed/animation-core-release/res
+com.luna.oneuilauncher.app-fragment-1.5.4-65 /tmp/gradle_home/caches/9.8.2/transforms/e451ff66f8268118ff77c7207e27632e/transformed/fragment-1.5.4/res
+com.luna.oneuilauncher.app-datastore-preferences-release-66 /tmp/gradle_home/caches/9.8.2/transforms/e4760518dcaae0abe19e2c5bade28c00/transformed/datastore-preferences-release/res
+com.luna.oneuilauncher.app-core-runtime-2.2.0-67 /tmp/gradle_home/caches/9.8.2/transforms/e4d10353ab0c2cf5db5c88399092266f/transformed/core-runtime-2.2.0/res
+com.luna.oneuilauncher.app-startup-runtime-1.1.1-68 /tmp/gradle_home/caches/9.8.2/transforms/e5010f04908b671792fde34826d66c29/transformed/startup-runtime-1.1.1/res
+com.luna.oneuilauncher.app-customview-poolingcontainer-1.0.0-69 /tmp/gradle_home/caches/9.8.2/transforms/eb44c21b51409f51cb02b3367311c0f6/transformed/customview-poolingcontainer-1.0.0/res
+com.luna.oneuilauncher.app-ui-util-release-70 /tmp/gradle_home/caches/9.8.2/transforms/f129fa779a49c681f97adcce3184c83b/transformed/ui-util-release/res
